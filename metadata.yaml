@@ -1,0 +1,28 @@
+_repo: A-Key-to-Lord-Tennyson-s-In-Memoriam-_36637
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gatty, Alfred
+    birthdate: 1813
+    deathdate: 1903
+    gutenberg_agent_id: '38441'
+    url: http://www.gutenberg.org/2009/agents/38441
+description: ''
+gutenberg_issued: '2011-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hallam, Arthur Henry, 1811-1833 -- In literature'
+- !lcsh 'Elegiac poetry, English -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'Tennyson, Alfred Tennyson, Baron, 1809-1892. In memoriam'
+title: A Key to Lord Tennyson's 'In Memoriam'
+url: http://www.gutenberg.org/ebooks/36637
